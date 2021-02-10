@@ -57,3 +57,8 @@ void main()
 `
 ## Links
 [google](Markdown Guidehttps://markdownguide.org)
+
+## add gmail link
+[gmail](svsravani@22gmail.com)
+## add college website link
+[website](www.kits.com)
