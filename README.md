@@ -62,3 +62,33 @@ void main()
 [gmail](https://www.gmail.com/)
 ## add college website link
 [website](www.kitsw.ac.in)
+## git commands
+- git init
+- git status
+- git branch
+- git add filename
+- git remote
+- git git remote -v
+- git clone "url"
+    - it will copy the repository file into your local system
+- git remote and remotename "repolink'
+    - it will creates a name a remote with the remote name
+- git log
+    - it will gives a commited history
+- git log --oneline
+    - it will gives you your commited hostory in single line
+- git revert filename
+    - it will undo the changes
+- git reset filename
+    -resetting the file references
+- git rm filename
+    -removes the filename
+- git config user.name "user name'
+    -to set your username and emailname
+- git config user.email "user email"
+- git commit -m "message"
+    -to commit your cganges along the messages
+- git push remotename branchname
+    -to push your sending the files to github server
+- git 
+    -to receive github files from repository to local system
