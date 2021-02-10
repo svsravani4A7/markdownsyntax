@@ -50,3 +50,7 @@ hhjnvnvnmn
 `
 fun()
 `
+## task
+`
+void main()
+     print("hello world")
