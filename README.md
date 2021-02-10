@@ -92,4 +92,6 @@ void main()
     -to push your sending the files to github server
 - git 
     -to receive github files from repository to local system
+    ## inserting images
+    ![images](https://github.com/svsravani4A7/markdownsyntax/blob/master/images.jpg)
     
