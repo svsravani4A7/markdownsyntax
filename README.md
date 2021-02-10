@@ -95,5 +95,5 @@ void main()
     ## inserting images
     ![images](https://github.com/svsravani4A7/markdownsyntax/blob/master/images.jpg)
     ## inserting videos
-    [![cat video](https://img.youtube.com/i8nLrvcNcrg/0.jpg)](https://www.youtube.com/watch?v=i8nLrvcNcrg)
+    [![cat video](https://img.youtube.com/vi/i8nLrvcNcrg/0.jpg)](https://www.youtube.com/watch?v=i8nLrvcNcrg)
     
